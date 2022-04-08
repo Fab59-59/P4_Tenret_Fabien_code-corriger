@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 45px!important;
 }
 
 .icon-lg {
@@ -838,6 +838,21 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
     background-attachment: local;
 }
+
+.flexboxcent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+/* .flexboxcent a{
+    color: #F3976C;
+}
+.flexboxcent a:hover{
+    color: #031894;
+} */
 
 @media (max-width: 1024px) {
     .bloc {
