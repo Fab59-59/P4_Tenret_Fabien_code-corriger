@@ -1055,12 +1055,12 @@ h4 {
         height: 570px;/*35.625vh*/
     }
 }
-@media (max-width: 599px){
+/* @media (max-width: 599px){
     .imgcorrection{
-        /* height: 569px; */
+        height: 569px;
         aspect-ratio: 1/1;
     }
-}
+} */
 /* @media (max-width: 580px){
     .imgcorrection{
         height: 550px;
